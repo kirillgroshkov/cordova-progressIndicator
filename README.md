@@ -1,3 +1,6 @@
+
+*Fork to fix mismatching plugin id in cordova*
+
 # Cordova Progress-Indicator Plugin#
 This plugin allows you to show a native Progress Indicator on iOS - by [Paolo Bernasconi](https://github.com/pbernasconi)
 
