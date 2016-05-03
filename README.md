@@ -13,7 +13,7 @@ There are several types of indicators available:
 # Install
 
 ```
-npm install cordova-plugin-progressindicator
+cordova plugin add cordova-plugin-progressindicator2
 ```
 
 # [View the Docs](http://pbernasconi.github.io/cordova-progressIndicator/)

@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-progressindicator",
+  "name": "cordova-plugin-progressindicator2",
   "author": "Paolo Bernasconi",
   "version": "1.2.0",
   "description": "cordova plugin to show a native progress indicator",
